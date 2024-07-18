@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GameHub
+build_property.RootNamespace = GameHub
+build_property.ProjectDir = B:\Programming\Alle store projekter\GameHub-main\GameHub\GameHub\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = B:\Programming\Alle store projekter\GameHub-main\GameHub\GameHub
+build_property._RazorSourceGeneratorDebug = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/AddGame.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkR2FtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/CreatUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Friends.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJpZW5kcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Gamecards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZWNhcmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/GameInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Premium.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbWl1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/Social.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29jaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[B:/Programming/Alle store projekter/GameHub-main/GameHub/GameHub/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

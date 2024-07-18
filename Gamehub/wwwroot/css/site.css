@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Barcode+128+Text&family=Press+Start+2P&display=swap');
+
+/*<!-- CSS made by Christian -->*/
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    font-family: 'Press Start 2P', cursive, sans-serif;
+    background: rgb(0,49,30);
+    background: radial-gradient(circle, rgba(0,49,30,1) 52%, rgba(0,26,16,1) 92%);
+}
+
+.barcode-font {
+    font-family: 'Libre Barcode 128 Text', cursive, sans-serif;
+    font-size: 65px;
+    color: #6e8f7e;
+}

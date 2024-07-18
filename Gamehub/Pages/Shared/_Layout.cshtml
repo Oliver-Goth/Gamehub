@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<!-- Page made by Christian -->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GameHub</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/localstyles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar local-bg-color-element box-shadow d-flex justify-content-between align-items-center local-height-navbar">
+            <div class="container-fluid m-0 justify-content-between">
+                <a class="h-100" asp-page="/Index"><img src="/img/logoblack.png" style="width: 150px" alt="logo of the company Gamehub" /></a>
+
+                <label class="navbar-toggler d-xxl-none d-xl-none d-lg-none btn" type="button" data-bs-toggle='collapse' data-bs-target='#navmenu'>
+                    <img src="/img/hamburgermenu.png" style="width: 40px; height: 40px;" />
+                </label>
+            </div>
+        </nav>
+    </header>
+
+    <div class="d-flex local-height-sidemenu">
+        <nav class="navbar navbar-expand-lg m-0 p-0">
+            <div class="collapse navbar-collapse local-border-color local-width-size h-100 d-lg-flex" id="navmenu">
+                <ul class="list-unstyled text-center text-decoration-none h-100 d-flex flex-column pt-4 pb-3">
+                    <li class="nav-item"><a asp-page="/Gamecards" class="text-decoration-none text-light "><img src="/img/lvlup.png" class="local-width-img" /><p>Bruger</p></a></li>
+                    <li class="nav-item"><a asp-page="/Friends" class="text-decoration-none text-light"><img src="/img/heart.png" class="local-width-img" /><p>Friends</p></a></li>
+                    <li class="nav-item"><a asp-page="/Social" class="text-decoration-none text-light"><img src="/img/social.png" class="local-width-img" /><p>Social</p></a></li>
+                    <li class="nav-item"><a asp-page="/Premium" class="text-decoration-none text-light"><img src="/img/crown.png" class="local-width-img" /><p>Premium</p></a></li>
+                    <li class="nav-item mt-auto" ><a asp-page="/Settings" class="text-decoration-none text-light text-center"><img src="/img/settings.png" class="local-width-img pb-3" /><p class="mb-0">Settings</p></a></li>
+                </ul>
+            </div>
+        </nav>
+        <main role="main" class="container-fluid overflow-auto">
+            @RenderBody()
+        </main>
+
+    </div>
+
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

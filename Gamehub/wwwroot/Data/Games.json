@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "UserId": 1,
+    "Name": "Counter Strike",
+    "Timeplayed": 420
+  },
+  {
+    "Id": 2,
+    "UserId": 1,
+    "Name": "Apex Legends",
+    "Timeplayed": 558
+  },
+  {
+    "Id": 3,
+    "UserId": 1,
+    "Name": "World of Warcraft",
+    "Timeplayed": 834
+  },
+  {
+    "Id": 4,
+    "UserId": 1,
+    "Name": "Ludo",
+    "Timeplayed": 143
+  },
+  {
+    "Id": 5,
+    "UserId": 1,
+    "Name": "Konge spil",
+    "Timeplayed": 85
+  },
+  {
+    "Id": 6,
+    "UserId": 1,
+    "Name": "Lego starwars",
+    "Timeplayed": 4000
+  }
+]

@@ -1,0 +1,62 @@
+﻿@page "{id:int}"
+@model GameHub.Pages.GameInfoModel1
+@{
+}
+
+<div class="flex-container local-bg-color">
+
+    <div class="flex-child local-bg-color">
+        <div class="card-header d-flex justify-content-between align-items-center local-bg-color-element rounded-0">
+            <h4 class="m-0">Game</h4>
+            <img style="width: 1.5em; height: 1.5em;" src="/img/x.svg" />
+        </div>
+        <div class="card-img rounded-0 d-flex justify-content-center align-items-center">
+            <img src="/img/Placeholder2.png" class="flex-img rounded-0" />
+        </div>
+        <div class="flex-body w-100">
+            <div class="gameinfo-title-card">
+                <div class="card-title pb-2">
+                    <h3 class="text-light">@Model.Game.Name</h3>
+                </div>
+                <p class="d-flex justify-content-between local-text-color">Time: <span class="local-text-color">@Model.Game.Timeplayed Hours</span></p>
+                <p class="d-flex justify-content-between local-text-muted-color">Platform: <span class="local-text-muted-color">Arcade</span></p>
+                <div class="card-img rounded-0">
+                    <img style="width: 2em; height: 2em" src="/img/star-full.png" class="card-img-top rounded-0 m-"/><img style="width: 2em; height: 2em" src="/img/star-full.png" class="card-img-top rounded-0" /><img style="width: 2em; height: 2em" src="/img/star-full.png" class="card-img-top rounded-0" /><img style="width: 2em; height: 2em" src="/img/star-full.png" class="card-img-top rounded-0" /><img style="width: 2em; height: 2em" src="/img/star-empty.png" class="card-img-top rounded-0" />
+                </div>
+            </div>
+            <div>
+                <img class="divider" src="/img/bar-game-info.png" />
+                <div>
+                    <p class="gameinfo-text">Space Invaders is a 1978 shoot 'em up arcade game developed by Tomohiro Nishikado. 
+                        Designer Nishikado drew inspiration from, The War of the Worlds, Space Battleship Yamato and Star Wars. 
+                        Space Invaders is considered one of the most influential video games of all time. 
+                        It ushered in the golden age of arcade video games, more broadly, 
+                        the pixelated enemy alien has become a pop culture icon, often representing video games as a whole.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="flex-child local-bg-color">
+        <div class="card-header d-flex justify-content-between align-items-center local-bg-color-element rounded-0">
+            <h4 class="m-0">Stats</h4>
+            <img style="width: 1.5em; height: 1.5em;" src="/img/x.svg" />
+        </div>
+        @if(Model.Comparison != null)
+        {
+            <div class="card-body w-100 ">
+                <div class="card-title pb-2">
+                    <h3 class="text-light">@Model.Comparison.Timeplayed Hours Used</h3>
+                </div>
+                <p class="d-flex justify-content-between local-text-color">
+                    @Model.Comparison.Description
+                </p>
+                <p class="d-flex justify-content-between local-text-muted-color">@Model.Comparison.Punchline</p>
+                <div class="divider">
+                    <img src="/img/bar.png" class="card-img-top rounded-0 mb-4 mt-4" />
+                </div>
+            </div>
+        }
+
+    </div>
+</div>

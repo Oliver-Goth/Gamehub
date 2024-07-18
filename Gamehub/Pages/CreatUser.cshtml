@@ -1,0 +1,100 @@
+﻿@page
+@model GameHub.Pages.Index1Model
+@{
+    ViewData["Title"] = "Creat user";
+    Layout = null;
+}
+
+<!-- Page made by Philip -->
+
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/localstyles.css" asp-append-version="true" />
+</head>
+
+
+<main class="container-fluid vh-100 d-flex justify-content-between align-items-center flex-column flex-wrap">
+
+    <section class="container d-flex justify-content-center w-50">
+        <a asp-page="/Index" class="text-decoration-none">
+            <img src="/img/logocolor.png" class="img-fluid" />
+        </a>
+    </section>
+
+    <div class="d-flex align-items-center">
+
+        <div class="container d-flex justify-content-center">
+
+            <form class="d-grid m-0" id="User">
+
+
+                <div class="container mt-4">
+                    <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                        <p class="m-0">User Name</p>
+                        <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+                    </div>
+                    <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color p-3">
+                            <input class="local-input" placeholder="User name" id="username" />
+                    </div>
+                </div>
+
+                <div class="container mt-2">
+                    <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                        <p class="m-0">EMail</p>
+                        <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+                    </div>
+                    <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color p-3">
+                        <input class="local-input " placeholder="EMail" id="EMail" />
+                    </div>
+                </div>
+
+                <div class="container mt-4">
+                    <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                        <p class="m-0">Password</p>
+                        <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+                    </div>
+                    <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color p-3">
+                          <input class="local-input" placeholder="Password" id="password" />
+                    </div>
+                </div>
+
+                <div class="container mt-2">
+                    <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                        <p class="m-0">Repeat Password</p>
+                        <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+                    </div>
+                    <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color p-3">
+                            <input class="local-input" placeholder="Repeat Password" id="Repeat Password" />
+                    </div>
+                </div>
+
+                    <div class="container my-4">
+                        <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                            <p class="m-0">Creat User</p>
+                            <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+                        </div>
+                        <a asp-page="/Gamecards" class="text-decoration-none">
+                        <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color p-3">
+                            <p class="m-0 text-light">Accept</p>
+                        </div>
+                        </a>
+                    </div>
+            </form>
+        </div>
+    </div>
+   
+    <footer class="container-fluid d-flex justify-content-between max-vh-25">
+        <div class="container">
+            <p class="barcode-font">By ROCKET RIDE</p>
+        </div>
+        <div class="container d-flex justify-content-end">
+            <p class="barcode-font">Copyrights Reserved 2023</p>
+        </div>
+    </footer>
+</main>
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>

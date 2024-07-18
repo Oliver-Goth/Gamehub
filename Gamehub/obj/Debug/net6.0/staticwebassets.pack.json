@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\Data\\Comparisons.json",
+      "PackagePath": "staticwebassets\\Data\\Comparisons.json"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\Data\\Games.json",
+      "PackagePath": "staticwebassets\\Data\\Games.json"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\Data\\Users.json",
+      "PackagePath": "staticwebassets\\Data\\Users.json"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\css\\localstyles.css",
+      "PackagePath": "staticwebassets\\css\\localstyles.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\Placeholder.png",
+      "PackagePath": "staticwebassets\\img\\Placeholder.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\Placeholder2.png",
+      "PackagePath": "staticwebassets\\img\\Placeholder2.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\Spaceinvaders2.png",
+      "PackagePath": "staticwebassets\\img\\Spaceinvaders2.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\bar-game-info.png",
+      "PackagePath": "staticwebassets\\img\\bar-game-info.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\bar.png",
+      "PackagePath": "staticwebassets\\img\\bar.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\crown.png",
+      "PackagePath": "staticwebassets\\img\\crown.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\hamburgermenu.png",
+      "PackagePath": "staticwebassets\\img\\hamburgermenu.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\heart.png",
+      "PackagePath": "staticwebassets\\img\\heart.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\logoblack.png",
+      "PackagePath": "staticwebassets\\img\\logoblack.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\logocolor.png",
+      "PackagePath": "staticwebassets\\img\\logocolor.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\lvlup.png",
+      "PackagePath": "staticwebassets\\img\\lvlup.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\settings.png",
+      "PackagePath": "staticwebassets\\img\\settings.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\social.png",
+      "PackagePath": "staticwebassets\\img\\social.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\spaceinvaders.jpg",
+      "PackagePath": "staticwebassets\\img\\spaceinvaders.jpg"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\star-empty.png",
+      "PackagePath": "staticwebassets\\img\\star-empty.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\star-full.png",
+      "PackagePath": "staticwebassets\\img\\star-full.png"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\img\\x.svg",
+      "PackagePath": "staticwebassets\\img\\x.svg"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "B:\\Programming\\Alle store projekter\\GameHub-main\\GameHub\\GameHub\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GameHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GameHub.props",
+      "PackagePath": "build\\GameHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GameHub.props",
+      "PackagePath": "buildMultiTargeting\\GameHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GameHub.props",
+      "PackagePath": "buildTransitive\\GameHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

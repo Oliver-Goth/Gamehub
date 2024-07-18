@@ -1,0 +1,54 @@
+﻿@page
+@model GameCardsModel
+@{
+    ViewData["Title"] = "Game Cards";
+}
+
+<!-- Page made by Christian -->
+
+<div class="container-fluid mt-3 local-grid-container">
+
+        @foreach( var game in Model.Games )
+        {
+        <div class="card local-border-color border-top-0 rounded-0 m-4 local-bg-color">
+            <div class="card-header d-flex justify-content-between align-items-center local-bg-color-element rounded-0">
+                <h4 class="m-0">Game</h4>
+                <img style="width: 1.5em; height: 1.5em;" src="/img/x.svg" />
+            </div>
+            <a asp-page="/GameInfo" class="text-decoration-none" asp-route-id="@game.Id">
+                <div class="card-img rounded-0">
+                    <img src="/img/Placeholder.png" class="card-img-top rounded-0" />
+                </div>
+                <div class="card-body w-100">
+                    <div class="card-title">
+                    <h3 class="text-light">@game.Name</h3>
+                    </div>
+                    <p class="d-flex justify-content-between local-text-color">Time: <span class="local-text-color">@game.Timeplayed Hours</span></p>
+                <p class="d-flex justify-content-between local-text-muted-color">Platform: <span class="local-text-muted-color">Arcade</span></p>
+                </div>
+            </a>
+        </div>    
+        }
+
+       
+
+
+        @*---- add knap ----*@
+    <div class="d-flex h-100 w-100 align-items-center justify-content-center">
+        <div class="card local-border-color border-top-0 rounded-0 m-4" style="width: 20em; height: 15em;">
+            <div class="card-header d-flex justify-content-between align-items-center local-bg-color-element rounded-0">
+                <h4 class="m-0">Add Game</h4>
+                <img style="width: 1.5em; height: 1.5em;" src="/img/x.svg" />
+            </div>
+            <div class="card-body d-flex flex-column justify-content-evenly align-items-center w-100 local-bg-color overflow-hidden">
+                <a asp-page="AddGame" style="text-decoration:none">
+                    <div class="card-title">
+                        <h2 class="text-center align-self-center text-light" style="font-size:5rem">+</h2>
+                    </div>
+                    <h4 class="d-flex justify-content-center text-light">Add Game</h4>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+

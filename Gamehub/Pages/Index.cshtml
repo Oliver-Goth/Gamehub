@@ -1,0 +1,58 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = null;
+}
+
+<!-- Page made by Christian -->
+
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/localstyles.css" asp-append-version="true" />
+</head>
+
+<main class="d-flex flex-column align-items-center justify-content-between vh-100">
+    <section class="container d-flex justify-content-center">
+        <img src="/img/logocolor.png" class="img-fluid"/>
+    </section>
+    <section class="container d-flex">
+        <div class="container">
+            <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                <p class="m-0">LogIn</p>
+                <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+            </div>
+            <a asp-page="/Gamecards" class="text-decoration-none">
+                <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color">
+                    <button type="button" class="btn btn-lg text-light fs-2">START</button>
+                </div>
+            </a>
+        </div>
+
+        <div class="container">
+            <div class="container border-2 local-border-color d-flex justify-content-between local-bg-color-element">
+                <p class="m-0">Sign up</p>
+                <img src="/img/x.svg" style="width: 1.5em; height: 1.5em;" />
+            </div>
+            <a asp-page="/CreatUser" class="text-decoration-none">
+            <div class="container local-border-color d-flex justify-content-center align-items-center local-button-color">
+                <button type="button" class="btn btn-lg text-light fs-2">See More</button>
+            </div>
+            </a>
+        </div>
+    </section>
+    <footer class="container-fluid d-flex justify-content-between">
+        <div class="container">
+            <p class="barcode-font">By ROCKET RIDE</p>
+        </div>
+        <div class="container d-flex justify-content-end">
+            <p class="barcode-font">Copyrights Reserved 2023</p>
+        </div>   
+    </footer>
+</main>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+
